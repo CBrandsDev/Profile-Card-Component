@@ -41,5 +41,30 @@ main {
     margin-bottom: 20px;
     height: 150px;
 }
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+.age {
+    font-weight: 400;
+    color: hsl(0, 0%, 59%);
+    padding-left: 12px;
+}
+.city {
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    color: hsl(0, 0%, 59%);
+}
+.line {
+    margin: 0;
+    padding: 0;
+    position: ;
+    background-color: hsl(0, 0%, 59%);
+    height: 0.2px;
+    width: 600px;
+}
 
 
