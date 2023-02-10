@@ -10,7 +10,7 @@ body {
     background-color: hsl(185, 75%, 39%);
     position: relative;
     background-image: url(./images/bg-pattern-bottom.svg);
-    background-position: 950px 950px;
+    background-position: bottom -250px right -250px ; 
     background-repeat: no-repeat;
 }
 main {
@@ -18,7 +18,7 @@ main {
     justify-content: center;
     align-items: center;
     background-image: url(./images/bg-pattern-top.svg);
-    background-position: -250px -250px;
+    background-position: top -250px left -250px;
     background-repeat: no-repeat;
     height: 100vh;  
 }
